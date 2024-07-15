@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 The notebook evaluates the KNN model using various metrics such as accuracy, precision, recall, F1-score, and ROC AUC score. Additionally, it compares the performance of the KNN implementation from scratch with the implementation using sklearn's KNeighborsClassifier.
 
-### E Output:
+### Output:
 
 - **Accuracy Score (Scratch):** 0.986
 - **Accuracy Score (Sklearn):** 0.993
